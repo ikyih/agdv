@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="28" height="28" viewBox="0.10000002384185791 0.6500000953674316 28 28">
+  <defs>
+    <linearGradient id="grad_1" x1="32" y1="58" x2="32" y2="32" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#000000" stop-opacity="0"/>
+      <stop offset="0.7551" stop-color="#000000"/>
+    </linearGradient>
+  <linearGradient id="grad_1-1.8369701465288538e-16,-1,-1,1.8369701465288538e-16,59.10000000000001,46.64999999999999" x1="1.1" y1="14.65" x2="27.1" y2="14.65" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#000000" stop-opacity="0"/>
+      <stop offset="0.7551" stop-color="#000000"/>
+    </linearGradient></defs>
+  <!-- Exported by Scratch - http://scratch.mit.edu/ -->
+  <g id="ID0.714509782847017">
+    <path id="ID0.832331005949527" fill="url(#grad_1-1.8369701465288538e-16,-1,-1,1.8369701465288538e-16,59.10000000000001,46.64999999999999)" d="M 1.1 1.65 L 1.1 27.65 L 27.1 14.65 L 1.1 1.65 " stroke-width="1"/>
+    <path id="ID0.15867031691595912" fill="none" stroke="#FFFFFF" stroke-width="2" d="M 1.1 1.65 L 1.1 27.65 L 27.1 14.65 L 1.1 1.65 "/>
+  </g>
+</svg>
